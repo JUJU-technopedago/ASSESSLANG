@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Skills</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        @font-face {
+            font-family: 'TambaSansDemo-Bold';
+            src: url('TambaSansDemo-Bold.otf') format('opentype');
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            overflow: hidden;  /* Prevent vertical scrolling */
+            font-family: 'TambaSansDemo-Bold', sans-serif;  /* Use the new font */
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: row;  /* Change to row to place panels side by side */
+            width: 100%;
+            max-width: 2400px;  /* Adjust max-width to fit the graph */
+            padding: 20px;
+        }
+        
+        .skills-panel {
+            display: grid;
+            grid-template-columns: auto 1fr;  /* Two-column grid */
+            align-items: center;
+            width: 25%;  /* Adjust width as needed */
+            padding: 20px;
+            background-color: #f5f5f5;
+            border-right: 1px solid #ddd;  /* Add border to separate panels */
+            margin-right: 20px;  /* Add margin to separate panels */
+            row-gap: 10px;  /* Maintain minimal spacing between skills */
+        }
+        
+        .graph-panel {
+            width: 55%;  /* Decrease width by 20% */
+            height: calc(100vh - 40px);  /* Full height of the viewport minus padding */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 0;  /* Remove padding */
+            background-color: white;
+            overflow: hidden;  /* Prevent overflow issues */
+            margin-bottom: 20px;  /* Add margin at the bottom */
+        }
+        
+        .skill-group {
+            display: contents;  /* Use contents to make the grid work */
+            margin-bottom: 20px;
+            white-space: nowrap;  /* Prevent text wrapping */
+        }
+        
+        .skill-group label {
+            margin-right: 10px;
+            font-weight: bold;
+            color: #666;
+            text-align: right;  /* Align text to the right */
+            white-space: nowrap;  /* Prevent text wrapping */
+        }
+        
+        select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+            grid-column: span 2;  /* Span both columns */
+            text-align: center;
+        }
+        
+        #svg-container {
+            width: 90%;  /* Adjust width to fit better */
+            height: 90%;  /* Adjust height to fit better */
+            max-width: none;  /* Remove any constraints */
+            max-height: none;  /* Remove any constraints */
+            margin: 0;  /* Remove unnecessary margins */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;  /* Avoid overflow of the SVG */
+        }
+        
+        #svg-container svg {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            font-family: 'TambaSansDemo-Bold', sans-serif;  /* Use the new font */
+        }
+        
+        .button-container {
+            margin-top: 20px;
+            text-align: center;
+            grid-column: span 2;  /* Span both columns */
+        }
+        
+        .download-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        
+        .download-btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <!-- Modify the dropdown menu here -->
+    <div class="language-selector" id="language-selector">
+        <select id="language">
+            <option value="AR">AR</option>
+            <option value="CN">CN</option>
+            <option value="DE">DE</option>
+            <option value="EN">EN</option>
+            <option value="ES">ES</option>
+            <option value="FR" selected>FR</option>
+            <option value="IT">IT</option>
+            <option value="JP">JP</option>
+            <option value="LT">LT</option>
+            <option value="NL">NL</option>
+            <option value="PT">PT</option>
+            <option value="RO">RO</option>
+            <option value="RU">RU</option>
+            <option value="TR">TR</option>
+        </select>
+    </div>
+    <div class="container" id="container">
+        <div class="skills-panel" id="skills-panel">
+            <h2>Language Skills</h2>
+            <div class="skill-group">
+                <label for="skill1">Compréhension Orale</label>
+                <select id="skill1" onchange="updateGraph()">
+                    <option value="">Niveau évalué</option>
+                    <option>A1 acquis</option>
+                    <option>A2 acquis</option>
+                    <option>B1 acquis</option>
+                    <option>B2 acquis</option>
+                    <option>C1 acquis</option>
+                    <option>C2 acquis</option>
+                    <option>A1 en cours d'acquisition</option>
+                    <option>A2 en cours d'acquisition</option>
+                    <option>B1 en cours d'acquisition</option>
+                    <option>B2 en cours d'acquisition</option>
+                    <option>C1 en cours d'acquisition</option>
+                    <option>C2 en cours d'acquisition</option>
+                </select>
+            </div>
+            <div class="skill-group">
+                <label for="skill2">Compréhension Écrite</label>
+                <select id="skill2" onchange="updateGraph()">
+                    <option value="">Niveau évalué</option>
+                    <option>A1 acquis</option>
+                    <option>A2 acquis</option>
+                    <option>B1 acquis</option>
+                    <option>B2 acquis</option>
+                    <option>C1 acquis</option>
+                    <option>C2 acquis</option>
+                    <option>A1 en cours d'acquisition</option>
+                    <option>A2 en cours d'acquisition</option>
+                    <option>B1 en cours d'acquisition</option>
+                    <option>B2 en cours d'acquisition</option>
+                    <option>C1 en cours d'acquisition</option>
+                    <option>C2 en cours d'acquisition</option>
+                </select>
+            </div>
+            <div class="skill-group">
+                <label for="skill3">Production Écrite</label>
+                <select id="skill3" onchange="updateGraph()">
+                    <option value="">Niveau évalué</option>
+                    <option>A1 acquis</option>
+                    <option>A2 acquis</option>
+                    <option>B1 acquis</option>
+                    <option>B2 acquis</option>
+                    <option>C1 acquis</option>
+                    <option>C2 acquis</option>
+                    <option>A1 en cours d'acquisition</option>
+                    <option>A2 en cours d'acquisition</option>
+                    <option>B1 en cours d'acquisition</option>
+                    <option>B2 en cours d'acquisition</option>
+                    <option>C1 en cours d'acquisition</option>
+                    <option>C2 en cours d'acquisition</option>
+                </select>
+            </div>
+            <div class="skill-group">
+                <label for="skill4">Production Orale</label>
+                <select id="skill4" onchange="updateGraph()">
+                    <option value="">Niveau évalué</option>
+                    <option>A1 acquis</option>
+                    <option>A2 acquis</option>
+                    <option>B1 acquis</option>
+                    <option>B2 acquis</option>
+                    <option>C1 acquis</option>
+                    <option>C2 acquis</option>
+                    <option>A1 en cours d'acquisition</option>
+                    <option>A2 en cours d'acquisition</option>
+                    <option>B1 en cours d'acquisition</option>
+                    <option>B2 en cours d'acquisition</option>
+                    <option>C1 en cours d'acquisition</option>
+                    <option>C2 en cours d'acquisition</option>
+                </select>
+            </div>
+            <div class="skill-group">
+                <label for="skill5">Lexique</label>
+                <select id="skill5" onchange="updateGraph()">
+                    <option value="">Niveau évalué</option>
+                    <option>A1 acquis</option>
+                    <option>A2 acquis</option>
+                    <option>B1 acquis</option>
+                    <option>B2 acquis</option>
+                    <option>C1 acquis</option>
+                    <option>C2 acquis</option>
+                    <option>A1 en cours d'acquisition</option>
+                    <option>A2 en cours d'acquisition</option>
+                    <option>B1 en cours d'acquisition</option>
+                    <option>B2 en cours d'acquisition</option>
+                    <option>C1 en cours d'acquisition</option>
+                    <option>C2 en cours d'acquisition</option>
+                </select>
+            </div>
+            <div class="skill-group">
+                <label for="skill6">Structure de la Langue</label>
+                <select id="skill6" onchange="updateGraph()">
+                    <option value="">Niveau évalué</option>
+                    <option>A1 acquis</option>
+                    <option>A2 acquis</option>
+                    <option>B1 acquis</option>
+                    <option>B2 acquis</option>
+                    <option>C1 acquis</option>
+                    <option>C2 acquis</option>
+                    <option>A1 en cours d'acquisition</option>
+                    <option>A2 en cours d'acquisition</option>
+                    <option>B1 en cours d'acquisition</option>
+                    <option>B2 en cours d'acquisition</option>
+                    <option>C1 en cours d'acquisition</option>
+                    <option>C2 en cours d'acquisition</option>
+                </select>
+            </div>
+            <div class="button-container">
+                <button class="download-btn" onclick="downloadSVG()">Download Graph</button>
+            </div>
+        </div>
+        <div class="graph-panel">
+            <div id="svg-container">
+                <!-- SVG content will be dynamically inserted here -->
+            </div>
+        </div>
+    </div> <!-- Add this closing div tag -->
+    <script src="process_svg.js"></script>
+    <script>
+        async function loadCSV() {
+            const response = await fetch('TT.csv');
+            const csvText = await response.text();
+            const lines = csvText.split('\n');
+            const csvData = {};
+            lines.forEach(line => {
+                const [lang, , evaluatedLevel, langSkills, skill1, skill2, skill3, skill4, skill5, skill6, a1Acquis, a2Acquis, b1Acquis, b2Acquis, c1Acquis, c2Acquis, a1EnCours, a2EnCours, b1EnCours, b2EnCours, c1EnCours, c2EnCours, downloadGraph] = line.split(';');
+                csvData[lang] = { evaluatedLevel, langSkills, skill1, skill2, skill3, skill4, skill5, skill6, a1Acquis, a2Acquis, b1Acquis, b2Acquis, c1Acquis, c2Acquis, a1EnCours, a2EnCours, b1EnCours, b2EnCours, c1EnCours, c2EnCours, downloadGraph };
+            });
+            return csvData;
+        }
+
+        async function loadSVG(svgFile) {
+            const response = await fetch(svgFile);
+            const svgText = await response.text();
+            document.getElementById('svg-container').innerHTML = svgText;
+        }
+
+        function updateGraph() {
+            const levels = {
+                skill1: document.getElementById('skill1').value,
+                skill2: document.getElementById('skill2').value,
+                skill3: document.getElementById('skill3').value,
+                skill4: document.getElementById('skill4').value,
+                skill5: document.getElementById('skill5').value,
+                skill6: document.getElementById('skill6').value
+            };
+
+            const allSelected = Object.values(levels).every(level => level !== "");
+            const polygons = document.querySelectorAll('polygon');
+            polygons.forEach(polygon => {
+                if (polygon.id.startsWith('polygon')) {
+                    polygon.style.display = 'block';  // Ensure hexagons are always visible
+                } else {
+                    polygon.style.display = allSelected ? 'block' : 'none';  // Control visibility of other polygons
+                    polygon.style.stroke = 'black';  // Add black border
+                    polygon.style.strokeWidth = '4';  // Bolder, thicker border
+                    polygon.style.strokeLinejoin = 'round';  // Round the corners
+                }
+            });
+
+            updateSVG(levels);
+        }
+
+        async function loadLanguageSVG() {
+            const language = document.getElementById('language').value;
+            const response = await fetch('svgtarget.csv');
+            const csvText = await response.text();
+            const lines = csvText.split('\n');
+            const svgMap = {};
+            lines.forEach(line => {
+                const [lang, svgFile] = line.split(';');
+                svgMap[lang] = svgFile;
+            });
+            const svgFile = svgMap[language.trim()];
+            if (svgFile) {
+                loadSVG(svgFile);
+            }
+
+            const csvData = await loadCSV();
+            const translations = csvData[language.trim()];
+            document.querySelector('.skills-panel h2').textContent = translations.langSkills;
+            document.querySelector('label[for="skill1"]').textContent = translations.skill1;
+            document.querySelector('label[for="skill2"]').textContent = translations.skill2;
+            document.querySelector('label[for="skill3"]').textContent = translations.skill3;
+            document.querySelector('label[for="skill4"]').textContent = translations.skill4;
+            document.querySelector('label[for="skill5"]').textContent = translations.skill5;
+            document.querySelector('label[for="skill6"]').textContent = translations.skill6;
+            document.querySelector('.download-btn').textContent = translations.downloadGraph;
+
+            // Update the options for each skill dropdown
+            const options = [
+                { value: "", text: translations.evaluatedLevel },
+                { value: "A1 acquis", text: translations.a1Acquis },
+                { value: "A2 acquis", text: translations.a2Acquis },
+                { value: "B1 acquis", text: translations.b1Acquis },
+                { value: "B2 acquis", text: translations.b2Acquis },
+                { value: "C1 acquis", text: translations.c1Acquis },
+                { value: "C2 acquis", text: translations.c2Acquis },
+                { value: "A1 en cours d'acquisition", text: translations.a1EnCours },
+                { value: "A2 en cours d'acquisition", text: translations.a2EnCours },
+                { value: "B1 en cours d'acquisition", text: translations.b1EnCours },
+                { value: "B2 en cours d'acquisition", text: translations.b2EnCours },
+                { value: "C1 en cours d'acquisition", text: translations.c1EnCours },
+                { value: "C2 en cours d'acquisition", text: translations.c2EnCours }
+            ];
+
+            ['skill1', 'skill2', 'skill3', 'skill4', 'skill5', 'skill6'].forEach(id => {
+                const select = document.getElementById(id);
+                select.innerHTML = options.map(option => `<option value="${option.value}">${option.text}</option>`).join('');
+            });
+
+            // Swap panels and columns for RTL languages
+            const container = document.getElementById('container');
+            const skillsPanel = document.getElementById('skills-panel');
+            const languageSelector = document.getElementById('language-selector');
+            if (language === 'AR') {
+                container.style.flexDirection = 'row-reverse';
+                skillsPanel.style.gridTemplateColumns = '1fr auto';  // Swap columns
+                skillsPanel.style.border = '1px solid #ddd';  // Add border for AR language
+                languageSelector.style.right = '10px';  // Move to top right corner
+                languageSelector.style.left = 'auto';  // Remove left positioning
+                document.querySelectorAll('.skill-group').forEach(group => {
+                    group.style.flexDirection = 'row-reverse';  // Swap direction for skill groups
+                    const label = group.querySelector('label');
+                    const select = group.querySelector('select');
+                    group.appendChild(label);  // Move label to the right of select
+                    group.insertBefore(select, label);  // Move select to the left of label
+                });
+            } else {
+                container.style.flexDirection = 'row';
+                skillsPanel.style.gridTemplateColumns = 'auto 1fr';  // Default columns
+                skillsPanel.style.border = 'none';  // Remove border for other languages
+                languageSelector.style.left = '10px';  // Move to top left corner
+                languageSelector.style.right = 'auto';  // Remove right positioning
+                document.querySelectorAll('.skill-group').forEach(group => {
+                    group.style.flexDirection = 'row';  // Default direction for skill groups
+                    const label = group.querySelector('label');
+                    const select = group.querySelector('select');
+                    group.appendChild(select);  // Move select to the right of label
+                    group.insertBefore(label, select);  // Move label to the left of select
+                });
+            }
+        }
+
+        document.getElementById('language').addEventListener('change', loadLanguageSVG);
+
+        loadLanguageSVG().then(() => {
+            // Clone options for all selects
+            const options = document.querySelector('#skill1').innerHTML;
+            ['skill2', 'skill3', 'skill4', 'skill5', 'skill6'].forEach(id => {
+                document.getElementById(id).innerHTML = options;
+            });
+        });
+
+        function downloadSVG() {
+            const svg = document.querySelector('svg');
+            const serializer = new XMLSerializer();
+            const svgString = serializer.serializeToString(svg);
+            
+            // Create a canvas with 4x resolution for higher quality
+            const canvas = document.createElement('canvas');
+            const scale = 4.0;
+            canvas.width = 4000; // 1000 * scale
+            canvas.height = 4000; // 1000 * scale
+            const ctx = canvas.getContext('2d');
+            ctx.scale(scale, scale);
+            
+            // Create an image from the SVG
+            const img = new Image();
+            img.src = 'data:image/svg+xml;base64,' + btoa(unescape(encodeURIComponent(svgString)));
+            
+            img.onload = function() {
+                // Draw image and convert to PNG
+                ctx.drawImage(img, 0, 0, 1000, 1000);
+                const pngUrl = canvas.toDataURL('image/png');
+                
+                // Download the PNG
+                const a = document.createElement('a');
+                a.href = pngUrl;
+                a.download = 'language-skills.png';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            };
+        }
+    </script>
+</body>
+</html>

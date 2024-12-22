@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="1000"
+   version="1.1"
+   width="1000"
+   id="svg17"
+   viewBox="0 0 1000 1000"
+   sodipodi:docname="HEXA_RU.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.191"
+     inkscape:cx="290.09236"
+     inkscape:cy="481.52813"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g127"
+     showgrid="false"
+     showguides="true">
+    <sodipodi:guide
+       position="500,500"
+       orientation="0,1"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="500,500"
+       orientation="-1,0"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="783.85976"
+       y="665.00357"
+       width="104.32811"
+       height="66.303187"
+       id="rect1" />
+  </defs>
+  <g
+     id="g127"
+     style="stroke:#000000;stroke-opacity:0.20481928">
+    <polygon
+       fill="none"
+       points="569.033483011869,460.1435 569.033483011869,539.8565 500.0,579.713 430.96651698813105,539.8565 430.96651698813105,460.1435 500.0,420.28700000000003"
+       stroke="black"
+       stroke-width="1"
+       id="polygon1"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="587.716918249159,449.35661363636365 587.716918249159,550.6433863636363 500.0,601.2867727272727 412.283081750841,550.6433863636363 412.283081750841,449.35661363636365 500.0,398.7132272727273"
+       stroke="black"
+       stroke-width="1"
+       id="polygon2"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="606.4003534864491,438.5697272727273 606.4003534864491,561.4302727272727 500.0,622.8605454545454 393.5996465135509,561.4302727272727 393.5996465135509,438.5697272727273 500.0,377.13945454545456"
+       stroke="black"
+       stroke-width="1"
+       id="polygon3"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="625.0837887237392,427.7828409090909 625.0837887237392,572.217159090909 500.0,644.4343181818182 374.9162112762608,572.217159090909 374.9162112762608,427.7828409090909 500.0,355.5656818181818"
+       stroke="black"
+       stroke-width="1"
+       id="polygon4"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="643.7672239610292,416.99595454545454 643.7672239610292,583.0040454545455 500.0,666.0080909090909 356.23277603897077,583.0040454545455 356.23277603897077,416.99595454545454 499.99999999999994,333.9919090909091"
+       stroke="black"
+       stroke-width="1"
+       id="polygon5"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="662.4506591983193,406.2090681818182 662.4506591983193,593.7909318181818 500.0,687.5818636363636 337.5493408016807,593.7909318181818 337.5493408016807,406.20906818181817 499.99999999999994,312.4181363636364"
+       stroke="black"
+       stroke-width="1"
+       id="polygon6"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="681.1340944356093,395.42218181818185 681.1340944356093,604.5778181818182 500.0,709.1556363636364 318.86590556439063,604.5778181818182 318.8659055643907,395.4221818181818 499.99999999999994,290.84436363636365"
+       stroke="black"
+       stroke-width="1"
+       id="polygon7"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="699.8175296728995,384.6352954545455 699.8175296728995,615.3647045454545 500.0,730.729409090909 300.18247032710053,615.3647045454545 300.1824703271006,384.6352954545454 499.99999999999994,269.27059090909097"
+       stroke="black"
+       stroke-width="1"
+       id="polygon8"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="718.5009649101895,373.8484090909091 718.5009649101895,626.1515909090908 500.0,752.3031818181818 281.4990350898105,626.1515909090908 281.4990350898105,373.84840909090906 499.99999999999994,247.6968181818182"
+       stroke="black"
+       stroke-width="1"
+       id="polygon9"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="737.1844001474796,363.06152272727275 737.1844001474796,636.9384772727273 500.0,773.8769545454545 262.81559985252045,636.9384772727273 262.81559985252045,363.06152272727275 499.99999999999994,226.1230454545455"
+       stroke="black"
+       stroke-width="1"
+       id="polygon10"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="755.8678353847697,352.27463636363643 755.8678353847697,647.7253636363636 500.0,795.4507272727272 244.13216461523035,647.7253636363636 244.13216461523038,352.2746363636363 499.99999999999994,204.54927272727275"
+       stroke="black"
+       stroke-width="1"
+       id="polygon11"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <polygon
+       fill="none"
+       points="774.5512706220597,341.48775 774.5512706220597,658.51225 500.0,817.0245 225.44872937794025,658.51225 225.4487293779403,341.48775 499.99999999999994,182.9755"
+       stroke="black"
+       stroke-width="1"
+       id="polygon12"
+       style="stroke:#000000;stroke-opacity:0.20481928" />
+    <line
+       stroke="black"
+       stroke-width="0.749017"
+       x1="569.03351"
+       x2="774.61414"
+       y1="460.14349"
+       y2="341.37891"
+       id="line12"
+       style="stroke:#000000;stroke-opacity:0.204819" />
+    <line
+       stroke="black"
+       stroke-width="0.748559"
+       x1="569.03351"
+       x2="774.55127"
+       y1="539.85651"
+       y2="658.51227"
+       id="line13"
+       style="stroke:#000000;stroke-opacity:0.204819" />
+    <line
+       stroke="black"
+       stroke-width="0.865193"
+       x1="500"
+       x2="500"
+       y1="579.71301"
+       y2="817.02448"
+       id="line14"
+       style="stroke:#000000;stroke-opacity:0.204819" />
+    <line
+       stroke="black"
+       stroke-width="0.749018"
+       x1="430.96652"
+       x2="225.38559"
+       y1="539.85651"
+       y2="658.62164"
+       id="line15"
+       style="stroke:#000000;stroke-opacity:0.204819" />
+    <line
+       stroke="black"
+       stroke-width="0.748559"
+       x1="430.96652"
+       x2="225.44873"
+       y1="460.14349"
+       y2="341.48776"
+       id="line16"
+       style="stroke:#000000;stroke-opacity:0.204819" />
+    <line
+       stroke="black"
+       stroke-width="0.865193"
+       x1="500"
+       x2="500"
+       y1="420.28699"
+       y2="182.97549"
+       id="line17"
+       style="stroke:#000000;stroke-opacity:0.204819" />
+  </g>
+  <g
+     id="g43"
+     inkscape:transform-center-y="-103.06679"
+     transform="matrix(2.6931962,4.6645365,-4.6647523,2.6930716,851.08906,-354.63726)"
+     inkscape:transform-center-x="-180.18148"
+     style="stroke-width:1.1463">
+    <g
+       id="g32"
+       transform="translate(57.695982,-7.7745398)"
+       style="stroke-width:1.1463">
+      <g
+         id="g31"
+         transform="translate(7.3107138,-0.12664401)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect30"
+           width="4.4057431"
+           height="4.4057431"
+           x="37.744289"
+           y="115.09255" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="42.01614"
+           y="118.4917"
+           id="text30"><tspan
+             sodipodi:role="line"
+             id="tspan30"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="42.01614"
+             y="118.4917">A2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g34"
+       transform="translate(57.695575,-12.702362)"
+       style="stroke-width:1.1463">
+      <g
+         id="g33"
+         transform="translate(4.5314443,-1.1970923)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect32"
+           width="4.4057431"
+           height="4.4057431"
+           x="40.523964"
+           y="113.02144" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="44.405098"
+           y="116.42068"
+           id="text32"><tspan
+             sodipodi:role="line"
+             id="tspan32"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="44.405098"
+             y="116.42068">B1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g36"
+       transform="translate(-0.04592972,-8.2172118)"
+       style="stroke-width:1.1463">
+      <g
+         id="g35"
+         transform="translate(5.4833824,-0.9267585)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect34"
+           width="4.4057431"
+           height="4.4057431"
+           x="97.31353"
+           y="100.19657" />
+        <text
+           xml:space="preserve"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="101.50444"
+           y="103.59583"
+           id="text34"><tspan
+             sodipodi:role="line"
+             id="tspan34"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variation-settings:normal;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="101.50444"
+             y="103.59583">B2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g38"
+       transform="translate(57.695607,-17.186519)"
+       style="stroke:#000000;stroke-width:1.1463;stroke-opacity:1">
+      <g
+         id="g37"
+         transform="translate(5.2929985,-2.5550988)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           id="rect36"
+           width="4.4057431"
+           height="4.4057431"
+           x="39.762379"
+           y="102.72484" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+           x="43.625935"
+           y="106.12419"
+           id="text36"><tspan
+             sodipodi:role="line"
+             id="tspan36"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+             x="43.625935"
+             y="106.12419">C1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g40"
+       transform="translate(9.3200323,-9.071421)"
+       style="stroke-width:1.1463">
+      <g
+         id="g39"
+         transform="translate(0.00350471,-0.11185807)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.952381;-inkscape-stroke:none"
+           id="rect38"
+           width="4.4057431"
+           height="4.4057431"
+           x="93.476761"
+           y="84.011703" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="97.64962"
+           y="87.411308"
+           id="text38"><tspan
+             sodipodi:role="line"
+             id="tspan38"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="97.64962"
+             y="87.411308">C2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g42"
+       transform="translate(57.696047,-7.4496273)"
+       style="stroke-width:1.1463">
+      <g
+         id="g41"
+         transform="translate(0.78553085,-8.0618073)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect40"
+           width="4.4057431"
+           height="4.4057431"
+           x="44.269405"
+           y="130.77219" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="48.231503"
+           y="134.15044"
+           id="text40"><tspan
+             sodipodi:role="line"
+             id="tspan40"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="48.231503"
+             y="134.15044">A1</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g29"
+     inkscape:transform-center-y="-207.57513"
+     transform="matrix(5.3862052,-1.0807658e-4,-1.0773019e-4,5.3863298,-64.593051,-231.37067)"
+     inkscape:transform-center-x="-0.83228131"
+     style="stroke-width:1.1463">
+    <g
+       id="g18"
+       transform="translate(57.695982,-7.7745398)"
+       style="stroke-width:1.1463">
+      <g
+         id="g17"
+         transform="translate(7.3107138,-0.12664401)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect17"
+           width="4.4057431"
+           height="4.4057431"
+           x="37.744289"
+           y="115.09255" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="42.01614"
+           y="118.4917"
+           id="text17"><tspan
+             sodipodi:role="line"
+             id="tspan17"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="42.01614"
+             y="118.4917">A2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g20"
+       transform="translate(57.695575,-12.702362)"
+       style="stroke-width:1.1463">
+      <g
+         id="g19"
+         transform="translate(4.5314443,-1.1970923)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect18"
+           width="4.4057431"
+           height="4.4057431"
+           x="40.523964"
+           y="113.02144" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="44.405098"
+           y="116.42068"
+           id="text18"><tspan
+             sodipodi:role="line"
+             id="tspan18"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="44.405098"
+             y="116.42068">B1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-0.04592972,-8.2172118)"
+       style="stroke-width:1.1463">
+      <g
+         id="g21"
+         transform="translate(5.4833824,-0.9267585)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect20"
+           width="4.4057431"
+           height="4.4057431"
+           x="97.31353"
+           y="100.19657" />
+        <text
+           xml:space="preserve"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="101.50444"
+           y="103.59583"
+           id="text20"><tspan
+             sodipodi:role="line"
+             id="tspan20"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variation-settings:normal;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="101.50444"
+             y="103.59583">B2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g24"
+       transform="translate(57.695607,-17.186519)"
+       style="stroke:#000000;stroke-width:1.1463;stroke-opacity:1">
+      <g
+         id="g23"
+         transform="translate(5.2929985,-2.5550988)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           id="rect22"
+           width="4.4057431"
+           height="4.4057431"
+           x="39.762379"
+           y="102.72484" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+           x="43.625935"
+           y="106.12419"
+           id="text22"><tspan
+             sodipodi:role="line"
+             id="tspan22"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+             x="43.625935"
+             y="106.12419">C1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g26"
+       transform="translate(9.3200323,-9.071421)"
+       style="stroke-width:1.1463">
+      <g
+         id="g25"
+         transform="translate(0.00350471,-0.11185807)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.952381;-inkscape-stroke:none"
+           id="rect24"
+           width="4.4057431"
+           height="4.4057431"
+           x="93.476761"
+           y="84.011703" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="97.64962"
+           y="87.411308"
+           id="text24"><tspan
+             sodipodi:role="line"
+             id="tspan24"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="97.64962"
+             y="87.411308">C2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g28"
+       transform="translate(57.696047,-7.4496273)"
+       style="stroke-width:1.1463">
+      <g
+         id="g27"
+         transform="translate(0.78553085,-8.0618073)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect26"
+           width="4.4057431"
+           height="4.4057431"
+           x="44.269405"
+           y="130.77219" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="48.231503"
+           y="134.15044"
+           id="text26"><tspan
+             sodipodi:role="line"
+             id="tspan26"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="48.231503"
+             y="134.15044">A1</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g55"
+     inkscape:transform-center-y="-104.50835"
+     transform="matrix(2.693009,-4.6646446,4.6646446,2.6932582,-415.68211,623.26659)"
+     inkscape:transform-center-x="179.34919"
+     style="stroke-width:1.1463">
+    <g
+       id="g44"
+       transform="translate(57.695982,-7.7745398)"
+       style="stroke-width:1.1463">
+      <g
+         id="g30"
+         transform="translate(7.3107138,-0.12664401)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect29"
+           width="4.4057431"
+           height="4.4057431"
+           x="37.744289"
+           y="115.09255" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="42.01614"
+           y="118.4917"
+           id="text29"><tspan
+             sodipodi:role="line"
+             id="tspan29"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="42.01614"
+             y="118.4917">A2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g46"
+       transform="translate(57.695575,-12.702362)"
+       style="stroke-width:1.1463">
+      <g
+         id="g45"
+         transform="translate(4.5314443,-1.1970923)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect44"
+           width="4.4057431"
+           height="4.4057431"
+           x="40.523964"
+           y="113.02144" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="44.405098"
+           y="116.42068"
+           id="text44"><tspan
+             sodipodi:role="line"
+             id="tspan44"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="44.405098"
+             y="116.42068">B1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g48"
+       transform="translate(-0.04592972,-8.2172118)"
+       style="stroke-width:1.1463">
+      <g
+         id="g47"
+         transform="translate(5.4833824,-0.9267585)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect46"
+           width="4.4057431"
+           height="4.4057431"
+           x="97.31353"
+           y="100.19657" />
+        <text
+           xml:space="preserve"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="101.50444"
+           y="103.59583"
+           id="text46"><tspan
+             sodipodi:role="line"
+             id="tspan46"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variation-settings:normal;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="101.50444"
+             y="103.59583">B2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g50"
+       transform="translate(57.695607,-17.186519)"
+       style="stroke:#000000;stroke-width:1.1463;stroke-opacity:1">
+      <g
+         id="g49"
+         transform="translate(5.2929985,-2.5550988)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           id="rect48"
+           width="4.4057431"
+           height="4.4057431"
+           x="39.762379"
+           y="102.72484" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+           x="43.625935"
+           y="106.12419"
+           id="text48"><tspan
+             sodipodi:role="line"
+             id="tspan48"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+             x="43.625935"
+             y="106.12419">C1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g52"
+       transform="translate(9.3200323,-9.071421)"
+       style="stroke-width:1.1463">
+      <g
+         id="g51"
+         transform="translate(0.00350471,-0.11185807)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.952381;-inkscape-stroke:none"
+           id="rect50"
+           width="4.4057431"
+           height="4.4057431"
+           x="93.476761"
+           y="84.011703" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="97.64962"
+           y="87.411308"
+           id="text50"><tspan
+             sodipodi:role="line"
+             id="tspan50"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="97.64962"
+             y="87.411308">C2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g54"
+       transform="translate(57.696047,-7.4496273)"
+       style="stroke-width:1.1463">
+      <g
+         id="g53"
+         transform="translate(0.78553085,-8.0618073)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect52"
+           width="4.4057431"
+           height="4.4057431"
+           x="44.269405"
+           y="130.77219" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="48.231503"
+           y="134.15044"
+           id="text52"><tspan
+             sodipodi:role="line"
+             id="tspan52"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="48.231503"
+             y="134.15044">A1</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g80"
+     inkscape:transform-center-y="103.06682"
+     transform="matrix(-2.6931962,-4.6645365,4.6647523,-2.6930716,148.91093,1354.6373)"
+     inkscape:transform-center-x="180.18148"
+     style="stroke-width:1.1463">
+    <g
+       id="g69"
+       transform="rotate(180,76.105866,113.28151)"
+       style="stroke-width:1.1463">
+      <g
+         id="g68"
+         transform="translate(7.3107138,-0.12664401)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect68"
+           width="4.4057431"
+           height="4.4057431"
+           x="37.744289"
+           y="115.09255" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="42.01614"
+           y="118.4917"
+           id="text68"><tspan
+             sodipodi:role="line"
+             id="tspan68"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="42.01614"
+             y="118.4917">A2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g71"
+       transform="rotate(180,76.106067,107.67604)"
+       style="stroke-width:1.1463">
+      <g
+         id="g70"
+         transform="translate(4.5314443,-1.1970923)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect69"
+           width="4.4057431"
+           height="4.4057431"
+           x="40.523964"
+           y="113.02144" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="44.405098"
+           y="116.42068"
+           id="text69"><tspan
+             sodipodi:role="line"
+             id="tspan69"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="44.405098"
+             y="116.42068">B1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g73"
+       transform="rotate(180,104.97682,97.364079)"
+       style="stroke-width:1.1463">
+      <g
+         id="g72"
+         transform="translate(5.4833824,-0.9267585)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect71"
+           width="4.4057431"
+           height="4.4057431"
+           x="97.31353"
+           y="100.19657" />
+        <text
+           xml:space="preserve"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="101.50444"
+           y="103.59583"
+           id="text71"><tspan
+             sodipodi:role="line"
+             id="tspan71"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variation-settings:normal;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="101.50444"
+             y="103.59583">B2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g75"
+       transform="rotate(180,76.106052,93.779352)"
+       style="stroke:#000000;stroke-width:1.1463;stroke-opacity:1">
+      <g
+         id="g74"
+         transform="translate(5.2929985,-2.5550988)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           id="rect73"
+           width="4.4057431"
+           height="4.4057431"
+           x="39.762379"
+           y="102.72484" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+           x="43.625935"
+           y="106.12419"
+           id="text73"><tspan
+             sodipodi:role="line"
+             id="tspan73"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+             x="43.625935"
+             y="106.12419">C1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g77"
+       transform="rotate(180,100.34315,81.567006)"
+       style="stroke-width:1.1463">
+      <g
+         id="g76"
+         transform="translate(0.00350471,-0.11185807)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.952381;-inkscape-stroke:none"
+           id="rect75"
+           width="4.4057431"
+           height="4.4057431"
+           x="93.476761"
+           y="84.011703" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="97.64962"
+           y="87.411308"
+           id="text75"><tspan
+             sodipodi:role="line"
+             id="tspan75"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="97.64962"
+             y="87.411308">C2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g79"
+       transform="rotate(180,76.105831,121.18844)"
+       style="stroke-width:1.1463">
+      <g
+         id="g78"
+         transform="translate(0.78553085,-8.0618073)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect77"
+           width="4.4057431"
+           height="4.4057431"
+           x="44.269405"
+           y="130.77219" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="48.231503"
+           y="134.15044"
+           id="text77"><tspan
+             sodipodi:role="line"
+             id="tspan77"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="48.231503"
+             y="134.15044">A1</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g93"
+     inkscape:transform-center-y="207.57513"
+     transform="matrix(-5.3862052,1.0807658e-4,1.0773019e-4,-5.3863298,1064.5931,1231.3707)"
+     inkscape:transform-center-x="0.83222498"
+     style="stroke-width:1.1463">
+    <g
+       id="g82"
+       transform="rotate(180,76.105866,113.28151)"
+       style="stroke-width:1.1463">
+      <g
+         id="g81"
+         transform="translate(7.3107138,-0.12664401)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect80"
+           width="4.4057431"
+           height="4.4057431"
+           x="37.744289"
+           y="115.09255" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="42.01614"
+           y="118.4917"
+           id="text80"><tspan
+             sodipodi:role="line"
+             id="tspan80"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="42.01614"
+             y="118.4917">A2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g84"
+       transform="rotate(180,76.106067,107.67604)"
+       style="stroke-width:1.1463">
+      <g
+         id="g83"
+         transform="translate(4.5314443,-1.1970923)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect82"
+           width="4.4057431"
+           height="4.4057431"
+           x="40.523964"
+           y="113.02144" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="44.405098"
+           y="116.42068"
+           id="text82"><tspan
+             sodipodi:role="line"
+             id="tspan82"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="44.405098"
+             y="116.42068">B1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g86"
+       transform="rotate(180,104.97682,97.364079)"
+       style="stroke-width:1.1463">
+      <g
+         id="g85"
+         transform="translate(5.4833824,-0.9267585)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect84"
+           width="4.4057431"
+           height="4.4057431"
+           x="97.31353"
+           y="100.19657" />
+        <text
+           xml:space="preserve"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="101.50444"
+           y="103.59583"
+           id="text84"><tspan
+             sodipodi:role="line"
+             id="tspan84"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variation-settings:normal;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="101.50444"
+             y="103.59583">B2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g88"
+       transform="rotate(180,76.106052,93.779352)"
+       style="stroke:#000000;stroke-width:1.1463;stroke-opacity:1">
+      <g
+         id="g87"
+         transform="translate(5.2929985,-2.5550988)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           id="rect86"
+           width="4.4057431"
+           height="4.4057431"
+           x="39.762379"
+           y="102.72484" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+           x="43.625935"
+           y="106.12419"
+           id="text86"><tspan
+             sodipodi:role="line"
+             id="tspan86"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+             x="43.625935"
+             y="106.12419">C1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g90"
+       transform="rotate(180,100.34315,81.567006)"
+       style="stroke-width:1.1463">
+      <g
+         id="g89"
+         transform="translate(0.00350471,-0.11185807)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.952381;-inkscape-stroke:none"
+           id="rect88"
+           width="4.4057431"
+           height="4.4057431"
+           x="93.476761"
+           y="84.011703" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="97.64962"
+           y="87.411308"
+           id="text88"><tspan
+             sodipodi:role="line"
+             id="tspan88"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="97.64962"
+             y="87.411308">C2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g92"
+       transform="rotate(180,76.105831,121.18844)"
+       style="stroke-width:1.1463">
+      <g
+         id="g91"
+         transform="translate(0.78553085,-8.0618073)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect90"
+           width="4.4057431"
+           height="4.4057431"
+           x="44.269405"
+           y="130.77219" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="48.231503"
+           y="134.15044"
+           id="text90"><tspan
+             sodipodi:role="line"
+             id="tspan90"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="48.231503"
+             y="134.15044">A1</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g118"
+     inkscape:transform-center-y="104.5083"
+     transform="matrix(-2.693009,4.6646446,-4.6646446,-2.6932582,1415.6822,376.7334)"
+     inkscape:transform-center-x="-179.34927"
+     style="stroke-width:1.1463">
+    <g
+       id="g107"
+       transform="rotate(180,76.105866,113.28151)"
+       style="stroke-width:1.1463">
+      <g
+         id="g106"
+         transform="translate(7.3107138,-0.12664401)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect106"
+           width="4.4057431"
+           height="4.4057431"
+           x="37.744289"
+           y="115.09255" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="42.01614"
+           y="118.4917"
+           id="text106"><tspan
+             sodipodi:role="line"
+             id="tspan106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="42.01614"
+             y="118.4917">A2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g109"
+       transform="rotate(180,76.106067,107.67604)"
+       style="stroke-width:1.1463">
+      <g
+         id="g108"
+         transform="translate(4.5314443,-1.1970923)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect107"
+           width="4.4057431"
+           height="4.4057431"
+           x="40.523964"
+           y="113.02144" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="44.405098"
+           y="116.42068"
+           id="text107"><tspan
+             sodipodi:role="line"
+             id="tspan107"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="44.405098"
+             y="116.42068">B1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g111"
+       transform="rotate(180,104.97682,97.364079)"
+       style="stroke-width:1.1463">
+      <g
+         id="g110"
+         transform="translate(5.4833824,-0.9267585)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect109"
+           width="4.4057431"
+           height="4.4057431"
+           x="97.31353"
+           y="100.19657" />
+        <text
+           xml:space="preserve"
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="101.50444"
+           y="103.59583"
+           id="text109"><tspan
+             sodipodi:role="line"
+             id="tspan109"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variation-settings:normal;text-align:end;text-anchor:end;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="101.50444"
+             y="103.59583">B2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g113"
+       transform="rotate(180,76.106052,93.779352)"
+       style="stroke:#000000;stroke-width:1.1463;stroke-opacity:1">
+      <g
+         id="g112"
+         transform="translate(5.2929985,-2.5550988)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+           id="rect111"
+           width="4.4057431"
+           height="4.4057431"
+           x="39.762379"
+           y="102.72484" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+           x="43.625935"
+           y="106.12419"
+           id="text111"><tspan
+             sodipodi:role="line"
+             id="tspan111"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-opacity:1"
+             x="43.625935"
+             y="106.12419">C1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g115"
+       transform="rotate(180,100.34315,81.567006)"
+       style="stroke-width:1.1463">
+      <g
+         id="g114"
+         transform="translate(0.00350471,-0.11185807)"
+         style="stroke-width:1.1463">
+        <rect
+           style="vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.952381;-inkscape-stroke:none"
+           id="rect113"
+           width="4.4057431"
+           height="4.4057431"
+           x="93.476761"
+           y="84.011703" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="97.64962"
+           y="87.411308"
+           id="text113"><tspan
+             sodipodi:role="line"
+             id="tspan113"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="97.64962"
+             y="87.411308">C2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g117"
+       transform="rotate(180,76.105831,121.18844)"
+       style="stroke-width:1.1463">
+      <g
+         id="g116"
+         transform="translate(0.78553085,-8.0618073)"
+         style="stroke-width:1.1463">
+        <rect
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#848484;fill-opacity:1;stroke:#000000;stroke-width:0.109564;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           id="rect115"
+           width="4.4057431"
+           height="4.4057431"
+           x="44.269405"
+           y="130.77219" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:end;white-space:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+           x="48.231503"
+           y="134.15044"
+           id="text115"><tspan
+             sodipodi:role="line"
+             id="tspan115"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5198px;line-height:1.25;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:end;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.207898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+             x="48.231503"
+             y="134.15044">A1</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.990476"
+     x="499.0856"
+     y="82.320885"
+     id="text64-2"
+     inkscape:transform-center-x="1.019266e-05"
+     inkscape:transform-center-y="-384.33052"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.990476"
+       x="499.0856"
+       y="82.320885"
+       id="tspan63" /><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.990476"
+       x="499.0856"
+       y="128.10518"
+       id="tspan64-8">ЛЕКСИКА</tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.990476"
+       x="499.0856"
+       y="173.82469"
+       id="tspan69-4" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+     x="683.25049"
+     y="-600.69183"
+     id="text57"
+     inkscape:transform-center-y="-192.25668"
+     inkscape:transform-center-x="-334.75398"
+     transform="rotate(60)"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="683.25049"
+       y="-600.69183"
+       id="tspan56-5">ЧТЕНИЕ </tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="683.25049"
+       y="-554.90753"
+       id="tspan57">С ПОНИМАНИЕМ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+     x="-182.7749"
+     y="265.33359"
+     id="text120"
+     inkscape:transform-center-y="-192.14948"
+     inkscape:transform-center-x="332.8491"
+     transform="rotate(-60)"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="-182.7749"
+       y="265.33359"
+       id="tspan119" /><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="-182.7749"
+       y="311.11789"
+       id="tspan120">АУДИРОВАНИЕ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+     x="-183.21388"
+     y="1076.2767"
+     id="text59"
+     inkscape:transform-center-y="193.62925"
+     inkscape:transform-center-x="-331.26663"
+     transform="rotate(-60)"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="-183.21388"
+       y="1076.2767"
+       id="tspan58-2">ПИСЬМЕННАЯ </tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="-183.21388"
+       y="1122.061"
+       id="tspan59">РЕЧЬ</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+     x="686.21307"
+     y="209.76685"
+     id="text122"
+     inkscape:transform-center-y="193.36654"
+     inkscape:transform-center-x="343.26906"
+     transform="rotate(60)"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="686.21307"
+       y="209.76685"
+       id="tspan121">УСТНАЯ </tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="686.21307"
+       y="255.55115"
+       id="tspan122">РЕЧЬ</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1"
+     style="font-family:'Bodoni Std';font-size:29.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-align:center;-inkscape-font-specification:'Bodoni Std';white-space:pre;shape-inside:url(#rect1)" />
+  <text
+     xml:space="preserve"
+     style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+     x="502.19452"
+     y="893.11993"
+     id="text3"
+     inkscape:transform-center-y="412.03279"
+     inkscape:transform-center-x="9.5431357e-06"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="502.19452"
+       y="893.11993"
+       id="tspan2">ГРАММАТИЧЕСКИЙ </tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="502.19452"
+       y="938.90424"
+       id="tspan3">СТРОЙ ЯЗЫКА</tspan></text>
+</svg>
