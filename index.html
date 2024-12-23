@@ -388,6 +388,11 @@
                     group.insertBefore(label, select);  // Move label to the left of select
                 });
             }
+
+            // Update the download button text for Lithuanian
+            if (language === 'LT') {
+                document.querySelector('.download-btn').textContent = 'Atsisiųsti diagramą';
+            }
         }
 
         document.getElementById('language').addEventListener('change', loadLanguageSVG);
