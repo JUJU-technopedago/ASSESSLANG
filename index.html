@@ -10,6 +10,10 @@
             font-family: 'TambaSansDemo-Bold';
             src: url('TambaSansDemo-Bold.otf') format('opentype');
         }
+        @font-face {
+            font-family: 'Cairo';
+            src: url('Cairo.ttf') format('truetype');
+        }
         
         body {
             margin: 0;
@@ -281,6 +285,12 @@
             const response = await fetch(svgFile);
             const svgText = await response.text();
             document.getElementById('svg-container').innerHTML = svgText;
+
+            // Apply Cairo font for Arabic SVG
+            if (svgFile === 'HEXA_AR.svg') {
+                const svgElement = document.querySelector('#svg-container svg');
+                svgElement.style.fontFamily = 'Cairo, sans-serif';
+            }
         }
 
         function updateGraph() {
