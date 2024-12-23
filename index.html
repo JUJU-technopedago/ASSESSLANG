@@ -14,6 +14,10 @@
             font-family: 'Cairo';
             src: url('Cairo.ttf') format('truetype');
         }
+        @font-face {
+            font-family: 'NotoNaskhArabic';
+            src: url('NotoNaskhArabic-VariableFont_wght.ttf') format('truetype');
+        }
         
         body {
             margin: 0;
@@ -286,10 +290,10 @@
             const svgText = await response.text();
             document.getElementById('svg-container').innerHTML = svgText;
 
-            // Apply Cairo font for Arabic SVG
+            // Apply Noto Naskh Arabic font for Arabic SVG
             if (svgFile === 'HEXA_AR.svg') {
                 const svgElement = document.querySelector('#svg-container svg');
-                svgElement.style.fontFamily = 'Cairo, sans-serif';
+                svgElement.style.fontFamily = 'NotoNaskhArabic, sans-serif';
             }
         }
 
