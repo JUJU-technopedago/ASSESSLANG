@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.191"
-     inkscape:cx="353.90428"
-     inkscape:cy="500"
+     inkscape:cx="442.06549"
+     inkscape:cy="510.9152"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -30,7 +30,15 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg17"
      showgrid="false"
-     showguides="true" />
+     showguides="true">
+    <sodipodi:guide
+       position="500,500"
+       orientation="0,1"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <rect
@@ -1346,11 +1354,13 @@
      style="font-size:48px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;display:inline;fill:#848484;fill-opacity:1;stroke:none;stroke-width:2.00186;stroke-opacity:0.481482"
      x="499.28"
      y="885.46277"
-     id="text127"><tspan
+     id="text127"
+     inkscape:transform-center-x="-7.9345703e-06"
+     inkscape:transform-center-y="374.49477"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;font-family:'Noto Naskh Arabic';-inkscape-font-specification:'Noto Naskh Arabic Bold';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:2.00186;stroke-opacity:0.481482"
-       x="0"
-       y="0"
+       x="499.28"
+       y="885.46277"
        id="tspan127">بنية اللغة</tspan></text>
   <text
      xml:space="preserve"
