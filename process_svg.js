@@ -68,6 +68,14 @@ const CENTER_Y = 500;
 const BRANCHES = 6;
 const LEVELS = 12;
 
+function ensurePolygonsAreVisible() {
+    const polygons = document.querySelectorAll('polygon');
+    polygons.forEach(pg => {
+        pg.style.display = 'block';
+        pg.style.fill = 'blue';
+    });
+}
+
 async function updateSVG(levels) {
     const svg = document.querySelector('#svg-container svg');
     if (!svg) {

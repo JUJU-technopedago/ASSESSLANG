@@ -134,20 +134,20 @@
     <!-- Modify the dropdown menu here -->
     <div class="language-selector" id="language-selector">
         <select id="language">
-            <option value="AR">AR</option>
-            <option value="CN">CN</option>
-            <option value="DE">DE</option>
-            <option value="EN">EN</option>
-            <option value="ES">ES</option>
-            <option value="FR" selected>FR</option>
-            <option value="IT">IT</option>
-            <option value="JP">JP</option>
-            <option value="LT">LT</option>
-            <option value="NL">NL</option>
-            <option value="PT">PT</option>
-            <option value="RO">RO</option>
-            <option value="RU">RU</option>
-            <option value="TR">TR</option>
+            <option value="FR">Français</option>
+            <option value="EN">English</option>
+            <option value="ES">Español</option>
+            <option value="IT">Italiano</option>
+            <option value="DE">Deutsch</option>
+            <option value="PT">Português</option>
+            <option value="AR">العربية</option>
+            <option value="CN">中文</option>
+            <option value="JP">日本語</option>
+            <option value="RU">Русский</option>
+            <option value="LT">Lietuvių</option>
+            <option value="NL">Nederlands</option>
+            <option value="RO">Română</option>
+            <option value="TR">Türkçe</option>
         </select>
     </div>
     <div class="container" id="container">
@@ -421,9 +421,12 @@
 
             // Update the labels for Dutch
             if (language === 'NL') {
-                document.querySelector('label[for="skill5"]').textContent = 'Schrijfvaardigheid';
-                document.querySelector('label[for="skill6"]').textContent = 'Spreekvaardigheid';
-                document.querySelector('label[for="skill4"]').textContent = 'Grammatica';
+                document.querySelector('label[for="skill1"]').textContent = 'Luistervaardigheid';
+                document.querySelector('label[for="skill2"]').textContent = 'Leesvaardigheid';
+                document.querySelector('label[for="skill3"]').textContent = 'Schrijfvaardigheid';
+                document.querySelector('label[for="skill4"]').textContent = 'Spreekvaardigheid';
+                document.querySelector('label[for="skill5"]').textContent = 'Woordenschat';
+                document.querySelector('label[for="skill6"]').textContent = 'Grammatica';
             }
         }
 
