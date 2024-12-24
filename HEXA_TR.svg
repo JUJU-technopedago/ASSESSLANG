@@ -6,7 +6,7 @@
    id="svg17"
    viewBox="0 0 1000 1000"
    sodipodi:docname="HEXA_TR.svg"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.84216418"
-     inkscape:cx="344.94462"
+     inkscape:cx="345.53832"
      inkscape:cy="581.24058"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
@@ -34,99 +34,99 @@
   <defs
      id="defs1">
     <rect
-       x="783.85976"
-       y="665.00357"
+       x="783.85974"
+       y="665.00354"
        width="104.32811"
-       height="66.303187"
+       height="66.303185"
        id="rect1" />
   </defs>
   <g
      id="g127"
-     style="stroke:#000000;stroke-opacity:0.20481928">
+     style="stroke:#000000;stroke-opacity:0.204819">
     <polygon
        fill="none"
-       points="569.033483011869,460.1435 569.033483011869,539.8565 500.0,579.713 430.96651698813105,539.8565 430.96651698813105,460.1435 500.0,420.28700000000003"
+       points="569.03348,539.8565 500,579.713 430.96652,539.8565 430.96652,460.1435 500,420.287 569.03348,460.1435 "
        stroke="black"
        stroke-width="1"
        id="polygon1"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="587.716918249159,449.35661363636365 587.716918249159,550.6433863636363 500.0,601.2867727272727 412.283081750841,550.6433863636363 412.283081750841,449.35661363636365 500.0,398.7132272727273"
+       points="587.71692,550.64339 500,601.28677 412.28308,550.64339 412.28308,449.35661 500,398.71323 587.71692,449.35661 "
        stroke="black"
        stroke-width="1"
        id="polygon2"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="606.4003534864491,438.5697272727273 606.4003534864491,561.4302727272727 500.0,622.8605454545454 393.5996465135509,561.4302727272727 393.5996465135509,438.5697272727273 500.0,377.13945454545456"
+       points="606.40035,561.43027 500,622.86055 393.59965,561.43027 393.59965,438.56973 500,377.13945 606.40035,438.56973 "
        stroke="black"
        stroke-width="1"
        id="polygon3"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="625.0837887237392,427.7828409090909 625.0837887237392,572.217159090909 500.0,644.4343181818182 374.9162112762608,572.217159090909 374.9162112762608,427.7828409090909 500.0,355.5656818181818"
+       points="625.08379,572.21716 500,644.43432 374.91621,572.21716 374.91621,427.78284 500,355.56568 625.08379,427.78284 "
        stroke="black"
        stroke-width="1"
        id="polygon4"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="643.7672239610292,416.99595454545454 643.7672239610292,583.0040454545455 500.0,666.0080909090909 356.23277603897077,583.0040454545455 356.23277603897077,416.99595454545454 499.99999999999994,333.9919090909091"
+       points="643.76722,583.00405 500,666.00809 356.23278,583.00405 356.23278,416.99595 500,333.99191 643.76722,416.99595 "
        stroke="black"
        stroke-width="1"
        id="polygon5"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="662.4506591983193,406.2090681818182 662.4506591983193,593.7909318181818 500.0,687.5818636363636 337.5493408016807,593.7909318181818 337.5493408016807,406.20906818181817 499.99999999999994,312.4181363636364"
+       points="662.45066,593.79093 500,687.58186 337.54934,593.79093 337.54934,406.20907 500,312.41814 662.45066,406.20907 "
        stroke="black"
        stroke-width="1"
        id="polygon6"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="681.1340944356093,395.42218181818185 681.1340944356093,604.5778181818182 500.0,709.1556363636364 318.86590556439063,604.5778181818182 318.8659055643907,395.4221818181818 499.99999999999994,290.84436363636365"
+       points="681.13409,604.57782 500,709.15564 318.86591,604.57782 318.86591,395.42218 500,290.84436 681.13409,395.42218 "
        stroke="black"
        stroke-width="1"
        id="polygon7"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="699.8175296728995,384.6352954545455 699.8175296728995,615.3647045454545 500.0,730.729409090909 300.18247032710053,615.3647045454545 300.1824703271006,384.6352954545454 499.99999999999994,269.27059090909097"
+       points="699.81753,615.3647 500,730.72941 300.18247,615.3647 300.18247,384.6353 500,269.27059 699.81753,384.6353 "
        stroke="black"
        stroke-width="1"
        id="polygon8"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="718.5009649101895,373.8484090909091 718.5009649101895,626.1515909090908 500.0,752.3031818181818 281.4990350898105,626.1515909090908 281.4990350898105,373.84840909090906 499.99999999999994,247.6968181818182"
+       points="718.50096,626.15159 500,752.30318 281.49904,626.15159 281.49904,373.84841 500,247.69682 718.50096,373.84841 "
        stroke="black"
        stroke-width="1"
        id="polygon9"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="737.1844001474796,363.06152272727275 737.1844001474796,636.9384772727273 500.0,773.8769545454545 262.81559985252045,636.9384772727273 262.81559985252045,363.06152272727275 499.99999999999994,226.1230454545455"
+       points="737.1844,636.93848 500,773.87695 262.8156,636.93848 262.8156,363.06152 500,226.12305 737.1844,363.06152 "
        stroke="black"
        stroke-width="1"
        id="polygon10"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="755.8678353847697,352.27463636363643 755.8678353847697,647.7253636363636 500.0,795.4507272727272 244.13216461523035,647.7253636363636 244.13216461523038,352.2746363636363 499.99999999999994,204.54927272727275"
+       points="755.86784,647.72536 500,795.45073 244.13216,647.72536 244.13216,352.27464 500,204.54927 755.86784,352.27464 "
        stroke="black"
        stroke-width="1"
        id="polygon11"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <polygon
        fill="none"
-       points="774.5512706220597,341.48775 774.5512706220597,658.51225 500.0,817.0245 225.44872937794025,658.51225 225.4487293779403,341.48775 499.99999999999994,182.9755"
+       points="774.55127,658.51225 500,817.0245 225.44873,658.51225 225.44873,341.48775 500,182.9755 774.55127,341.48775 "
        stroke="black"
        stroke-width="1"
        id="polygon12"
-       style="stroke:#000000;stroke-opacity:0.20481928" />
+       style="stroke:#000000;stroke-opacity:0.204819" />
     <line
        stroke="black"
        stroke-width="0.749017"
@@ -1252,7 +1252,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.990476"
        x="500"
        y="141.15645"
-       id="tspan5">LEKSIK</tspan><tspan
+       id="tspan5">LEKSİK</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.990476"
        x="500"
