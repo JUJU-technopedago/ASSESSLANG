@@ -70,6 +70,8 @@ h1 {
     align-items: center;
     background-color: white;
     overflow: hidden;
+    position: relative;
+    z-index: 2; /* Ensure the polygon is on top */
 }
 
 .skill-group {

@@ -300,6 +300,7 @@
                     polygon.style.display = 'block';
                     polygon.style.stroke = 'black';
                     polygon.style.strokeWidth = '1';
+                    polygon.style.fill = 'none';  // Remove blue fill color
                 });
             }
         }
@@ -340,7 +341,10 @@
                 const [lang, svgFile] = line.split(';');
                 svgMap[lang] = svgFile;
             });
-            const svgFile = svgMap[language.trim()];
+            let svgFile = svgMap[language.trim()];
+            if (language === 'AR') {
+                svgFile = 'HEXA_AR.svg';  // Use HEXA_AR.svg for Arabic version
+            }
             if (svgFile) {
                 loadSVG(svgFile);
             }
