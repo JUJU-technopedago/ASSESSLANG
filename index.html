@@ -134,19 +134,19 @@
     <!-- Modify the dropdown menu here -->
     <div class="language-selector" id="language-selector">
         <select id="language">
-            <option value="FR">Français</option>
-            <option value="EN">English</option>
-            <option value="ES">Español</option>
-            <option value="IT">Italiano</option>
-            <option value="DE">Deutsch</option>
-            <option value="PT">Português</option>
             <option value="AR">العربية</option>
             <option value="CN">中文</option>
+            <option value="DE">Deutsch</option>
+            <option value="EN">English</option>
+            <option value="ES">Español</option>
+            <option value="FR" selected>Français</option>
+            <option value="IT">Italiano</option>
             <option value="JP">日本語</option>
-            <option value="RU">Русский</option>
             <option value="LT">Lietuvių</option>
             <option value="NL">Nederlands</option>
+            <option value="PT">Português</option>
             <option value="RO">Română</option>
+            <option value="RU">Русский</option>
             <option value="TR">Türkçe</option>
         </select>
     </div>
@@ -431,6 +431,12 @@
         }
 
         document.getElementById('language').addEventListener('change', loadLanguageSVG);
+
+        // Set French as the default language on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('language').value = 'FR';
+            loadLanguageSVG();
+        });
 
         loadLanguageSVG().then(() => {
             // Clone options for all selects
