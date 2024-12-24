@@ -418,6 +418,12 @@
             if (language === 'LT') {
                 document.querySelector('.download-btn').textContent = 'Atsisiųsti diagramą';
             }
+
+            // Update the labels for Dutch
+            if (language === 'NL') {
+                document.querySelector('label[for="skill5"]').textContent = 'Schrijfvaardigheid';
+                document.querySelector('label[for="skill6"]').textContent = 'Spreekvaardigheid';
+            }
         }
 
         document.getElementById('language').addEventListener('change', loadLanguageSVG);
