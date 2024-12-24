@@ -138,3 +138,38 @@ async function updateSVG(levels) {
         path274.parentNode.appendChild(path274);
     }
 }
+
+function hideSquaresInsidePolygon(polygonId) {
+    const polygon = document.getElementById(polygonId);
+    if (!polygon) return;
+
+    const polygonRect = polygon.getBoundingClientRect();
+    const squareIds = [
+        'rect30', 'rect32', 'rect34', 'rect36', 'rect38', 'rect40',
+        'rect17', 'rect18', 'rect20', 'rect22', 'rect24', 'rect26',
+        'rect29', 'rect44', 'rect46', 'rect48', 'rect50', 'rect52',
+        'rect68', 'rect69', 'rect71', 'rect73', 'rect75', 'rect77',
+        'rect80', 'rect82', 'rect84', 'rect86', 'rect88', 'rect90',
+        'rect106', 'rect107', 'rect109', 'rect111', 'rect113', 'rect115'
+    ];
+
+    squareIds.forEach(id => {
+        const square = document.getElementById(id);
+        if (!square) return;
+
+        const squareRect = square.getBoundingClientRect();
+        if (
+            squareRect.left >= polygonRect.left &&
+            squareRect.right <= polygonRect.right &&
+            squareRect.top >= polygonRect.top &&
+            squareRect.bottom <= polygonRect.bottom
+        ) {
+            square.style.display = 'none';
+        }
+    });
+}
+
+// Example usage: Call this function after the SVG is loaded and the polygon is created
+document.addEventListener('DOMContentLoaded', () => {
+    hideSquaresInsidePolygon('polygon1'); // Replace 'polygon1' with the actual polygon ID
+});

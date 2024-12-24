@@ -28,7 +28,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g127"
+     inkscape:current-layer="svg17"
      showgrid="false"
      showguides="true" />
   <defs
@@ -1333,7 +1333,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="680.86414"
        y="254.31067"
-       id="tspan122">ÜRETIMI</tspan></text>
+       id="tspan122">ÜRETİMİ</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
@@ -1341,18 +1341,12 @@
      y="890.29865"
      id="text127"
      inkscape:transform-center-y="403.72043"
-     inkscape:transform-center-x="0.27973559"
-     sodipodi:insensitive="true"><tspan
+     inkscape:transform-center-x="0.27973559"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="501.0607"
        y="890.29865"
-       id="tspan126">DİL</tspan><tspan
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
-       x="501.0607"
-       y="936.08295"
-       id="tspan127">YAPISI</tspan></text>
+       id="tspan127">DİLBİLGİSİ</tspan></text>
   <text
      xml:space="preserve"
      id="text1"

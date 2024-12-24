@@ -428,6 +428,11 @@
                 document.querySelector('label[for="skill5"]').textContent = 'Woordenschat';
                 document.querySelector('label[for="skill6"]').textContent = 'Grammatica';
             }
+
+            // Update the label for Turkish
+            if (language === 'TR') {
+                document.querySelector('label[for="skill6"]').textContent = 'Dilbilgisi';
+            }
         }
 
         document.getElementById('language').addEventListener('change', loadLanguageSVG);
