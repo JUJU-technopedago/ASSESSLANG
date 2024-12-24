@@ -1286,7 +1286,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="683.25049"
        y="-550.92078"
-       id="tspan57">LEESVAARDIGHEID</tspan></text>
+       id="tspan57">SCHRIJFVAARDIGHEID</tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="683.25049"
+       y="-505.20126"
+       id="tspan1" /></text>
   <text
      xml:space="preserve"
      style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
@@ -1305,7 +1310,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="-182.7749"
        y="315.10461"
-       id="tspan120">LUISTERVAARDIGHEID</tspan></text>
+       id="tspan120">SPREEKVAARDIGHEID</tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
+       x="-182.7749"
+       y="360.82413"
+       id="tspan2" /></text>
   <text
      xml:space="preserve"
      style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
@@ -1356,7 +1366,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="499.79883"
        y="893.26398"
-       id="tspan127">TAALSTRUCTUUR</tspan></text>
+       id="tspan127">GRAMMATICA</tspan></text>
   <text
      xml:space="preserve"
      id="text1"
