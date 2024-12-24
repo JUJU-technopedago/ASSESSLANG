@@ -294,6 +294,13 @@
             if (svgFile === 'HEXA_AR.svg') {
                 const svgElement = document.querySelector('#svg-container svg');
                 svgElement.style.fontFamily = 'NotoNaskhArabic, sans-serif';
+                // Ensure polygons are visible
+                const polygons = svgElement.querySelectorAll('polygon');
+                polygons.forEach(polygon => {
+                    polygon.style.display = 'block';
+                    polygon.style.stroke = 'black';
+                    polygon.style.strokeWidth = '1';
+                });
             }
         }
 
@@ -453,3 +460,4 @@
     </script>
 </body>
 </html>
+

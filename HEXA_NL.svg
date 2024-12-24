@@ -1286,7 +1286,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="683.25049"
        y="-550.92078"
-       id="tspan57">SCHRIJFVAARDIGHEID</tspan><tspan
+       id="tspan57">LEESVAARDIGHEID</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="683.25049"
@@ -1310,7 +1310,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="-182.7749"
        y="315.10461"
-       id="tspan120">SPREEKVAARDIGHEID</tspan><tspan
+       id="tspan120">LUISTERVAARDIGHEID</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="-182.7749"
@@ -1329,12 +1329,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="-182.89381"
        y="1075.9982"
-       id="tspan58-2">GESCHREVEN</tspan><tspan
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
-       x="-182.89381"
-       y="1121.7825"
-       id="tspan59">PRODUCTIE</tspan></text>
+       id="tspan59">SCHRIJFVAARDIGHEID</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
@@ -1348,12 +1343,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
        x="683.0127"
        y="209.76683"
-       id="tspan121">MONDELINGE</tspan><tspan
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tamba Sans';-inkscape-font-specification:'Tamba Sans';text-align:center;text-anchor:middle;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
-       x="683.0127"
-       y="255.55113"
-       id="tspan122">PRODUCTIE</tspan></text>
+       id="tspan122">SPREEKVAARDIGHEID</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:36.5756px;line-height:1.25;font-family:'Lucida Sans';-inkscape-font-specification:'Lucida Sans';text-align:end;text-anchor:end;fill:#848484;fill-opacity:1;stroke:none;stroke-width:1.34312;stroke-opacity:0.481482"
